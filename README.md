@@ -13,10 +13,10 @@ We expect that you may need to do a bit of a research on Guice but hey, this is 
 
 Can you please implement the following interfaces and Guice module:
 
-* Logger
-* LoggerManager
-* LoggerWriter
-* LoggerModule
+* Log
+* LogManager
+* LogWriter
+* LogModule
 
 Please send a solution as a zip file to pavel.halas@wallstreetsystems.com.
 
